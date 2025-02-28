@@ -17,4 +17,5 @@ Scale, translate, and rotate a 3D pyramid, in OpenGL.
    git clone https://github.com/maximus3343/pyramid_cpp.git
    cd pyramid_cpp
    mkdir build
+   cd build
    cmake .. && make && ./main
